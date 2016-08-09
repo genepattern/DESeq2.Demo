@@ -1,3 +1,8 @@
+# general 
+.DS_Store
+*~
+/build/
+
 # History files
 .Rhistory
 .Rapp.history

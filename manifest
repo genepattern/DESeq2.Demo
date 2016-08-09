@@ -1,0 +1,22 @@
+#Tue, 09 Aug 2016 11:55:11 -0400
+#DESeq2.Demo
+#Thu Jul 28 23:19:01 EDT 2016
+JVMLevel=
+LSID=urn\:lsid\:8080.gpbroad.broadinstitute.org\:genepatternmodules\:571\:0.1
+author=Peter Carr;Broad Institute
+categories=DESeq;RNA-Seq
+commandLine=<R3.2_Rscript> <libdir>main.R
+cpuType=any
+description=A demo R3.2_Rscript module which installs the DESeq2 package 
+fileFormat=
+language=any
+name=DESeq2.Demo
+os=any
+privacy=public
+quality=development
+taskDoc=readme.txt
+taskType=DESeq
+userid=pcarr@broadinstitute.org
+version=Completed initial work on 'r.package.info' file, tested on gpbroad custom site-library
+
+publicationDate=08/09/2016 11\:55 
