@@ -77,3 +77,7 @@ genefilter
 geneplotter
 # DESeq2_1.10.1                                                          
 DESeq2
+
+
+# install Cairo
+Cairo
